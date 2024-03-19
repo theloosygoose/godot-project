@@ -1,0 +1,6 @@
+[submodule "rust_helpers"]
+	path = rust_helpers
+	url = https://github.com/theloosygoose/rust_helpers.git
+[submodule "battle_system"]
+	path = battle_system
+	url = https://github.com/theloosygoose/new_battle_mechanics.git
